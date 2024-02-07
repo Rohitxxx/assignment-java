@@ -1,0 +1,75 @@
+
+
+1.write a program to find the length of a string and reverse it using switch case.
+
+2.write a program to count no. of vowel and consonant in a string.
+
+3.write a program to enter a string,a position where you want to change a character
+ and a character now replace it with given position.
+
+4.write a program to enter a string and find the existence of a
+ character(y/n), occurence of a perticular character with position
+  
+5.write a program to enter a string and then find small letter,capital letter,
+spaces,symbols and total character in a string. 
+
+6.write a program that will evaluate a inputted string,look at first letter,determine if it is a vowel
+then add 'hp' to the end of inputted string.if the first letter is not vowel then
+ drop the first letter and add 'hp' to the end.
+7.write a program to print the string 'ALLAHABAD' in following formate
+             
+             A
+            A L
+           A L L  
+          A L L A   
+         A L L A H   
+        A L L A H A
+       A L L A H A B
+      A L L A H A B A
+     A L L A H A B A D
+8.w.a.p. to enter a string,a substring of inputted string and replace it with another string.
+
+9.w.a.p. create a class MyStr which has 2 methods to perform
+(a)compare two string and check whether they are equal or not.
+(b)concatenate 2 string 
+
+10.w.a.p to perform sorting on array of string.
+
+11.W.a.p. to enter and print the reverse of string and pattern
+
+   enter String:KANPUR
+   o/p should be:RUPNAK
+            
+            R
+            RU
+            RUP
+            RUPN
+            RUPNA
+            RUPNAK
+
+12.write a program to enter a line and print each word in reverse in their position.
+
+13.write a program to perform unsorting in a sorted array by using a function named
+ unsortArr,which takes sorted array as parameter and returns unsorted array.
+
+
+
+14.w.a.p to perform bubble sort.
+
+15.w.a.p. to perform Linear Search.
+
+16.w.a.p to perform binary search.
+
+17.W.A.P. to Calculate  LCM of n numbers and HCM of n numbers using array.
+
+18.W.A.P for use of String Tokenizer methods-countToken(),hasMoreElements(),
+now enter a date and break it using delimeter '/'.
+
+ 
+19.W.A.P. to find biggest and smallest number in the matrix.
+
+20.W.A.P. to print both diagonal of a matrix and also print the sum of diagonals.
+
+21.W.A.P for use of varargs, create a method SumArr which takes parameters
+    of type int array and returns sum of it.
+
